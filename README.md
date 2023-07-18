@@ -8,7 +8,7 @@ Definition of data visualization and its relevance.
   
 _Lab: Introduction to R (vector, matrices, arrays, lists, functions)_
 
-### 02/05: Data Visualization Principles
+### 02/05: Data visualization principles
 - Data Visualization principles
 - Visualization types
 - Best practices for data visualization
@@ -30,14 +30,14 @@ _Lab R: Packages for timeseries analysis, stacked graphs, scatterplot matrix (ti
   
 _Lab R: Packages for spatial analysis_
 
-### 20/06: Geospatial Analysis
+### 20/06: Geospatial analysis
 - Attribute data operations
 - Spatial data operations
 - Geometry operations
 - Raster vector interactions
 - Geographic data
 
-### 04/07: Web mapping with Leaflet
+### 04/07: Web mapping with the "leaflet" package
 - Introduction to Leaflet
 - Creating interactive web maps
 - Adding markers and popups
@@ -45,7 +45,7 @@ _Lab R: Packages for spatial analysis_
   
 _Lab R: Using leaflet to create maps (popups and labels), lines and shapes_
 
-### 18/07: An introduction to ggplot2
+### 18/07: An introduction to "ggplot2"
 - Overview of data visualization
 - An introduction to ggplot2
 - Building a basic dashboard using esquisse()

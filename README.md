@@ -5,26 +5,26 @@ Definition of data visualization and its relevance.
 - Overview of data and its rise in recent years
 - Role of data visualization
 - Examples of data stories that utilize data visualization.
-**Lab: Introduction to R (vector, matrices, arrays, lists, functions)**.
+_Lab: Introduction to R (vector, matrices, arrays, lists, functions)_
 
 ### 02/05: Data Visualization Principles
 - Data Visualization principles
 - Visualization types
 - Best practices for data visualization
 - Misleading visualization techniques
-**Lab R: covers data structure, class, functions, control flow**.
+_Lab R: covers data structure, class, functions, control flow_
 
 ### 16/05: Time series visualization
 - Displaying time series
 - Time in the horizontal axis
 - Time as a conditioning or grouping variables.
 - Time as a complementary variable
-**Lab R: Packages for timeseries analysis, stacked graphs, scatterplot matrix (time as a grouping variable)**-
+_Lab R: Packages for timeseries analysis, stacked graphs, scatterplot matrix (time as a grouping variable)_
 
 ### 06/06: Spatial data visualization
 - Types of maps and their uses
 - Thematic maps and their applications
-**Lab R: Packages for spatial analysis**.
+_Lab R: Packages for spatial analysis_
 
 ### 20/06: Geospatial Analysis
 - Attribute data operations
@@ -38,10 +38,10 @@ Definition of data visualization and its relevance.
 - Creating interactive web maps
 - Adding markers and popups
 - Styling web maps with CSS
-**Lab R: Using leaflet to create maps (Popups and labels), Lines and shapes**.
+_Lab R: Using leaflet to create maps (popups and labels), lines and shapes_
 
 ### 18/07: An introduction to ggplot2
 - Overview of data visualization
 - An introduction to ggplot2
 - Building a basic dashboard using esquisse()
-**Lab R: Data visualization usin ggplot2**.
+_Lab R: Data visualization usin ggplot2_

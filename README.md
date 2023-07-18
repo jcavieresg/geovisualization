@@ -1,5 +1,5 @@
 # Geovisualization
-## Content:
+## Content
 ###  18/04: Introduction 
 Definition of data visualization and its relevance. 
 - Overview of data and its rise in recent years
